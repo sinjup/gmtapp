@@ -1,0 +1,344 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20230921_180016-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-09-21 18:00:28.058662
+Config  : ./gmt.test/private/backups/20230921_180016-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20230921_180016-gmt_test-database.sql.gz         278.6KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20230922_120008-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-09-22 12:00:13.076496
+Config  : ./gmt.test/private/backups/20230922_120008-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20230922_120008-gmt_test-database.sql.gz         287.4KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20230925_120009-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-09-25 12:00:16.144247
+Config  : ./gmt.test/private/backups/20230925_120009-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20230925_120009-gmt_test-database.sql.gz         297.3KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20230925_180009-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-09-25 18:00:15.216876
+Config  : ./gmt.test/private/backups/20230925_180009-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20230925_180009-gmt_test-database.sql.gz         307.0KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20230926_120008-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-09-26 12:00:12.246613
+Config  : ./gmt.test/private/backups/20230926_120008-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20230926_120008-gmt_test-database.sql.gz         310.6KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20230926_180008-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-09-26 18:00:13.422023
+Config  : ./gmt.test/private/backups/20230926_180008-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20230926_180008-gmt_test-database.sql.gz         314.8KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20230927_120009-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-09-27 12:00:13.304574
+Config  : ./gmt.test/private/backups/20230927_120009-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20230927_120009-gmt_test-database.sql.gz         323.3KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20230927_180009-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-09-27 18:00:15.080966
+Config  : ./book.test/private/backups/20230927_180009-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20230927_180009-book_test-database.sql.gz         270.8KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20230927_164554-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20230927_164450-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20230927_120009-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20230927_120009-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20230926_180008-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20230927_164554-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20230927_164450-gmt_test-site_config_backup.json is recent
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20230927_180015-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-09-27 18:00:17.342384
+Config  : ./gmt.test/private/backups/20230927_180015-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20230927_180015-gmt_test-database.sql.gz         331.3KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20230928_120009-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-09-28 12:00:12.139615
+Config  : ./book.test/private/backups/20230928_120009-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20230928_120009-book_test-database.sql.gz         272.2KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20230927_164554-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20230927_180015-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20230927_164450-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20230927_120009-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20230927_164554-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20230927_164450-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20230927_180015-gmt_test-site_config_backup.json is recent
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20230928_120012-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-09-28 12:00:13.094549
+Config  : ./gmt.test/private/backups/20230928_120012-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20230928_120012-gmt_test-database.sql.gz         332.4KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20230928_180009-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-09-28 18:00:14.845333
+Config  : ./book.test/private/backups/20230928_180009-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20230928_180009-book_test-database.sql.gz         276.4KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20230927_164554-gmt_test-database.sql.gz is older than 24 hours
+File ./gmt.test/private/backups/20230927_180015-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20230928_120012-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20230928_120012-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20230927_120009-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20230927_164554-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20230927_164450-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20230927_180015-gmt_test-site_config_backup.json is recent
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20230928_180014-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-09-28 18:00:16.813138
+Config  : ./gmt.test/private/backups/20230928_180014-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20230928_180014-gmt_test-database.sql.gz         344.4KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20230929_120009-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-09-29 12:00:15.211608
+Config  : ./book.test/private/backups/20230929_120009-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20230929_120009-book_test-database.sql.gz         279.6KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20230927_180015-gmt_test-database.sql.gz is older than 24 hours
+File ./gmt.test/private/backups/20230928_120012-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20230928_120012-gmt_test-database.sql.gz is older than 24 hours
+File ./gmt.test/private/backups/20230928_180014-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20230928_180014-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20230927_180015-gmt_test-site_config_backup.json is older than 24 hours
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20230929_120015-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-09-29 12:00:17.466324
+Config  : ./gmt.test/private/backups/20230929_120015-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20230929_120015-gmt_test-database.sql.gz         348.9KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20231003_120010-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-10-03 12:00:21.358923
+Config  : ./book.test/private/backups/20231003_120010-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20231003_120010-book_test-database.sql.gz         286.6KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20230929_120015-gmt_test-database.sql.gz is older than 24 hours
+File ./gmt.test/private/backups/20230929_120015-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20230928_180014-gmt_test-database.sql.gz is older than 24 hours
+File ./gmt.test/private/backups/20230928_180014-gmt_test-site_config_backup.json is older than 24 hours
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20231003_120021-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-10-03 12:00:23.957767
+Config  : ./gmt.test/private/backups/20231003_120021-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20231003_120021-gmt_test-database.sql.gz         365.7KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20231003_180013-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-10-03 18:00:25.809850
+Config  : ./book.test/private/backups/20231003_180013-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20231003_180013-book_test-database.sql.gz         295.3KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20231003_120021-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20231003_120021-gmt_test-site_config_backup.json is recent
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20231003_180025-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-10-03 18:00:30.622923
+Config  : ./gmt.test/private/backups/20231003_180025-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20231003_180025-gmt_test-database.sql.gz         370.5KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20231004_120012-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-10-04 12:00:21.485866
+Config  : ./book.test/private/backups/20231004_120012-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20231004_120012-book_test-database.sql.gz         299.1KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20231003_180025-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20231003_180025-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20231003_120021-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20231003_120021-gmt_test-site_config_backup.json is recent
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20231004_120021-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-10-04 12:00:24.514989
+Config  : ./gmt.test/private/backups/20231004_120021-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20231004_120021-gmt_test-database.sql.gz         374.9KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20231004_180010-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-10-04 18:00:23.307959
+Config  : ./book.test/private/backups/20231004_180010-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20231004_180010-book_test-database.sql.gz         303.3KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20231003_180025-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20231003_180025-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20231004_120021-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20231003_120021-gmt_test-database.sql.gz is older than 24 hours
+File ./gmt.test/private/backups/20231004_120021-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20231003_120021-gmt_test-site_config_backup.json is older than 24 hours
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20231004_180023-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-10-04 18:00:26.061968
+Config  : ./gmt.test/private/backups/20231004_180023-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20231004_180023-gmt_test-database.sql.gz         379.8KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20231005_120012-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-10-05 12:00:20.475893
+Config  : ./book.test/private/backups/20231005_120012-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20231005_120012-book_test-database.sql.gz         306.4KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20231003_180025-gmt_test-database.sql.gz is older than 24 hours
+File ./gmt.test/private/backups/20231003_180025-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20231004_120021-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20231004_120021-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20231004_180023-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20231004_180023-gmt_test-database.sql.gz is recent
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20231005_120020-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-10-05 12:00:22.794228
+Config  : ./gmt.test/private/backups/20231005_120020-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20231005_120020-gmt_test-database.sql.gz         382.4KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20231005_180007-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-10-05 18:00:11.820310
+Config  : ./book.test/private/backups/20231005_180007-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20231005_180007-book_test-database.sql.gz         310.4KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20231005_120020-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20231005_120020-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20231004_120021-gmt_test-database.sql.gz is older than 24 hours
+File ./gmt.test/private/backups/20231004_120021-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20231004_180023-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20231004_180023-gmt_test-database.sql.gz is recent
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20231005_180011-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-10-05 18:00:13.684973
+Config  : ./gmt.test/private/backups/20231005_180011-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20231005_180011-gmt_test-database.sql.gz         386.9KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20231011_120013-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-10-11 12:00:18.544127
+Config  : ./book.test/private/backups/20231011_120013-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20231011_120013-book_test-database.sql.gz         311.3KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20231005_120020-gmt_test-database.sql.gz is older than 24 hours
+File ./gmt.test/private/backups/20231005_120020-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20231005_180011-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20231005_180011-gmt_test-database.sql.gz is older than 24 hours
+File ./gmt.test/private/backups/20231004_180023-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20231004_180023-gmt_test-database.sql.gz is older than 24 hours
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20231011_120018-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-10-11 12:00:19.996430
+Config  : ./gmt.test/private/backups/20231011_120018-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20231011_120018-gmt_test-database.sql.gz         388.4KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20231011_180020-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-10-11 18:00:29.564261
+Config  : ./book.test/private/backups/20231011_180020-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20231011_180020-book_test-database.sql.gz         311.3KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20231011_120018-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20231011_120018-gmt_test-site_config_backup.json is recent
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20231011_180030-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-10-11 18:00:33.013672
+Config  : ./gmt.test/private/backups/20231011_180030-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20231011_180030-gmt_test-database.sql.gz         388.4KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20231013_120008-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-10-13 12:00:10.799904
+Config  : ./book.test/private/backups/20231013_120008-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20231013_120008-book_test-database.sql.gz         311.3KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20231011_180030-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20231011_120018-gmt_test-database.sql.gz is older than 24 hours
+File ./gmt.test/private/backups/20231011_120018-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20231011_180030-gmt_test-database.sql.gz is older than 24 hours
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20231013_120011-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-10-13 12:00:12.161112
+Config  : ./gmt.test/private/backups/20231013_120011-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20231013_120011-gmt_test-database.sql.gz         388.4KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20231016_120009-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-10-16 12:00:12.679083
+Config  : ./book.test/private/backups/20231016_120009-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20231016_120009-book_test-database.sql.gz         313.1KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20231013_120011-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20231013_120011-gmt_test-database.sql.gz is older than 24 hours
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20231016_120012-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-10-16 12:00:13.939448
+Config  : ./gmt.test/private/backups/20231016_120012-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20231016_120012-gmt_test-database.sql.gz         389.6KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20231016_180007-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-10-16 18:00:11.455302
+Config  : ./book.test/private/backups/20231016_180007-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20231016_180007-book_test-database.sql.gz         317.8KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20231016_120012-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20231016_120012-gmt_test-site_config_backup.json is recent
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20231016_180011-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-10-16 18:00:12.327342
+Config  : ./gmt.test/private/backups/20231016_180011-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20231016_180011-gmt_test-database.sql.gz         393.8KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20231017_120009-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-10-17 12:00:11.802376
+Config  : ./book.test/private/backups/20231017_120009-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20231017_120009-book_test-database.sql.gz         319.3KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20231016_120012-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20231016_180011-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20231016_180011-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20231016_120012-gmt_test-site_config_backup.json is recent
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20231017_120012-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-10-17 12:00:12.579477
+Config  : ./gmt.test/private/backups/20231017_120012-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20231017_120012-gmt_test-database.sql.gz         395.7KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20231017_180007-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-10-17 18:00:08.886958
+Config  : ./book.test/private/backups/20231017_180007-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20231017_180007-book_test-database.sql.gz         319.3KiB
+Backup for Site book.test has been successfully completed
+File ./gmt.test/private/backups/20231016_120012-gmt_test-database.sql.gz is older than 24 hours
+File ./gmt.test/private/backups/20231017_120012-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20231016_180011-gmt_test-database.sql.gz is recent
+File ./gmt.test/private/backups/20231016_180011-gmt_test-site_config_backup.json is recent
+File ./gmt.test/private/backups/20231016_120012-gmt_test-site_config_backup.json is older than 24 hours
+File ./gmt.test/private/backups/20231017_120012-gmt_test-database.sql.gz is recent
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmt.test/private/backups/20231017_180008-gmt_test-database.sql.gz
+
+Backup Summary for gmt.test at 2023-10-17 18:00:09.339351
+Config  : ./gmt.test/private/backups/20231017_180008-gmt_test-site_config_backup.json 94.0B
+Database: ./gmt.test/private/backups/20231017_180008-gmt_test-database.sql.gz         395.7KiB
+Backup for Site gmt.test has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4e90def62452d766 -p********** _4e90def62452d766 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./book.test/private/backups/20231101_180007-book_test-database.sql.gz
+
+Backup Summary for book.test at 2023-11-01 18:00:11.352128
+Config  : ./book.test/private/backups/20231101_180007-book_test-site_config_backup.json 94.0B
+Database: ./book.test/private/backups/20231101_180007-book_test-database.sql.gz         319.6KiB
+Backup for Site book.test has been successfully completed
+File ./gmtapp.local/private/backups/20231101_172716-gmtapp_local-private-files.tar is recent
+File ./gmtapp.local/private/backups/20231101_172716-gmtapp_local-files.tar is recent
+File ./gmtapp.local/private/backups/20231101_172716-gmtapp_local-database.sql.gz is recent
+File ./gmtapp.local/private/backups/20231101_172716-gmtapp_local-site_config_backup.json is recent
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _8f9b8cff91ed6f49 -p********** _8f9b8cff91ed6f49 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./gmtapp.local/private/backups/20231101_180011-gmtapp_local-database.sql.gz
+
+Backup Summary for gmtapp.local at 2023-11-01 18:00:12.547098
+Config  : ./gmtapp.local/private/backups/20231101_180011-gmtapp_local-site_config_backup.json 94.0B
+Database: ./gmtapp.local/private/backups/20231101_180011-gmtapp_local-database.sql.gz         392.3KiB
+Backup for Site gmtapp.local has been successfully completed

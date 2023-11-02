@@ -1,0 +1,27 @@
+2023-09-21 17:04:59,463 ERROR frappe New Exception collected in error log
+Site: gmt.test
+Form Dict: {'user': 'citrusdevsinju@gmail.com', 'cmd': 'frappe.core.doctype.user.user.reset_password'}
+2023-09-21 17:05:32,013 ERROR frappe New Exception collected in error log
+Site: gmt.test
+Form Dict: {'recipients': 'citrusdevsinju@gmail.com', 'subject': 'User: citrusdevsinju@gmail.com', 'content': '<div class="ql-editor read-mode"><p><br></p></div>', 'doctype': 'User', 'name': 'citrusdevsinju@gmail.com', 'send_email': '1', 'print_html': '', 'send_me_a_copy': '0', 'print_format': 'Standard', 'attachments': '[]', 'read_receipt': '0', 'print_letterhead': '1', 'cmd': 'frappe.core.doctype.communication.email.make'}
+2023-09-22 13:37:03,185 ERROR frappe New Exception collected in error log
+Site: gmt.test
+Form Dict: {'doctype': 'Pre-Approval', 'with_parent': '1', 'cached_timestamp': '2023-09-21 16:51:25.961764', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2023-09-22 13:40:23,708 ERROR frappe New Exception collected in error log
+Site: gmt.test
+Form Dict: {'doctype': 'Pre-Approval', 'with_parent': '1', 'cached_timestamp': '2023-09-21 16:51:25.961764', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2023-09-22 13:52:22,344 ERROR frappe New Exception collected in error log
+Site: gmt.test
+Form Dict: {'doctype': 'Pre-Approval', 'with_parent': '1', 'cached_timestamp': '2023-09-21 16:51:25.961764', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2023-09-29 12:26:40,446 ERROR frappe New Exception collected in error log
+Site: gmt.test
+Form Dict: {'name': 'Pre-approval', 'cmd': 'frappe.desk.doctype.dashboard_chart_source.dashboard_chart_source.get_config'}
+2023-09-29 12:27:08,435 ERROR frappe New Exception collected in error log
+Site: gmt.test
+Form Dict: {'name': 'Pre-approval', 'cmd': 'frappe.desk.doctype.dashboard_chart_source.dashboard_chart_source.get_config'}
+2023-09-29 13:00:47,666 ERROR frappe Error while inserting deferred Error Log record: Error Log 3c269d52b8: 'Title' ([Errno 2] No such file or directory: '/home/citrus/gmt-bench/apps/gmt_management/gmt_management/gmt/dashboard_chart_source/pre_approval/pre_approval.js') will get truncated, as max characters allowed is 140
+Site: gmt.test
+Form Dict: {}
+2023-09-29 13:00:47,672 ERROR frappe Error while inserting deferred Error Log record: Error Log 6cc9d2afed: 'Title' ([Errno 2] No such file or directory: '/home/citrus/gmt-bench/apps/gmt_management/gmt_management/gmt/dashboard_chart_source/pre_approval/pre_approval.js') will get truncated, as max characters allowed is 140
+Site: gmt.test
+Form Dict: {}

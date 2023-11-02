@@ -1,0 +1,31 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "15.0.0-dev"
+    },
+    "gmt_management": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "a7fb384f076f278580b3efda4658ed69b0ec5334",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
+    },
+    "book_store": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "0b7273246da540847a2ba9d458201a87cf27c1b9",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
+    }
+}
